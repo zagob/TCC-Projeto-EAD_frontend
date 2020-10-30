@@ -6,11 +6,11 @@ Trabalho de conclusão do curso sistemas de informação
 - Yarn ou Npm
 
 ## Getting Started
-1° - Clonar repositorio
+#### 1° - Clonar repositorio
 $ git clone "https://github.com/zagob/TCC-Projeto-EAD_frontend.git"
 
-2° - Instalar dependências
+#### 2° - Instalar dependências
 $ yarn
 
-3° - Executar projeto
+#### 3° - Executar projeto
 $ yarn start
