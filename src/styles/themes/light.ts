@@ -1,0 +1,26 @@
+export default {
+    colors: {
+      background: '#F0F0F7',
+      primaryLighter: '#004731',
+      primaryLight: '#004731',
+      primary: '#004731',
+      primaryDark: '#004731',
+      primaryDarker: '#003836',
+      secondary: '#04D361',
+      secondaryDark: '#04BF58',
+      titleInPrimary: '#FFFFFF',
+      textInPrimary: '#D4C2FF',
+      textTitle: '#32264D',
+      textComplement: '#9C98A6',
+      textBase: '#007853',
+      lineInWhite: '#E6E6F0',
+      inputBackground: '#F8F8FC',
+      inputPlaceholder: '#C1BCCC',
+      buttonText: '#FFFFFF',
+      buttonNotAvailable: '#DCDCE5',
+      boxBase: '#FFFFFF',
+      boxFooter: '#FAFAFC',
+      error: '#e33d3d',
+    },
+  } as const;
+  
